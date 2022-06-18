@@ -1,2 +1,5 @@
-Hello world, this is test.
-git add. this is another test line.
+git init
+git add test.txt
+git add . --take all files
+git commit -m "write your messages".
+git push origin.s
